@@ -1,6 +1,6 @@
 <h2 align="center">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi Buddy! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Prasad Borkar :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -31,12 +31,9 @@
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Full Stack Developer
+- :computer: I'm a Full Stack Developer and a Java Enthusiast
 - :rocket: Always ready for Challenges
-- :man_technologist: Former Manager at AIESEC in Pune
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
 <h2 align="center">:heart: Let's get connected:</h2>
@@ -46,9 +43,9 @@
     <img src="https://img.shields.io/badge/-Prasad_Borkar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/prasad_3030_" target="_blank">
-    <img src="https://img.shields.io/badge/-@Prasad_Borkar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Prasad_Borkar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:prasadborkar523@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/-prasadborkar523@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
