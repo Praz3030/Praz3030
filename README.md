@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prasad_borkar_3030_?ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/prasad_borkar_3030_?ext=heatmap" onClick="https://leetcode.com/u/prasad_borkar_3030_/">
 </p>
 
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
