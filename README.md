@@ -39,7 +39,7 @@
 <h2 align="center">:heart: Let's get connected:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasad-borkar-21455b229" target="_blank">
+  <a href="https://www.linkedin.com/in/prasadborkar30" target="_blank">
     <img src="https://img.shields.io/badge/-Prasad_Borkar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/prasad_3030_" target="_blank">
